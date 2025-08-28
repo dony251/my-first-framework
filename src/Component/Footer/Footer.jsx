@@ -6,7 +6,7 @@ export default function Footer() {
     <footer>
       {/* الجزء العلوي */}
       <div className="bg-[#2c3e50] text-white">
-        <div className="container mx-auto px-6 py-12 grid grid-cols-1 md:grid-cols-3 gap-8 text-center">
+        <div className="container mx-auto px-6 py-15 grid grid-cols-1 md:grid-cols-3 gap-8 text-center">
           
           {/* LOCATION */}
           <div>
@@ -46,7 +46,7 @@ export default function Footer() {
       </div>
 
       {/* الجزء السفلي */}
-      <div className="bg-[#1a252f] text-white text-center py-4">
+      <div className="bg-[#1a252f] text-white text-center  py-6">
         <p>Copyright © Your Website 2021</p>
       </div>
     </footer>

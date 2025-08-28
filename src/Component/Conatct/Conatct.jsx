@@ -40,7 +40,7 @@ export default function Contact() {
   );
 
   return (
-    <div className="p-10 text-center">
+    <div className="p-10 pt-[80px] text-center">
       <h1 className="text-4xl font-bold mb-2 uppercase">Contact</h1>
 
       {/* الخطين والنجمة */}
