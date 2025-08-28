@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <header className="bg-teal-600 text-white h-screen flex flex-col items-center justify-center text-center">
       <img
-        src="../../../public/1.svg"
+        src="1.svg"
         alt="avatar"
         className="w-48 h-48 rounded-full mb-4"
       />
