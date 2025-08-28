@@ -2,12 +2,11 @@
 import Layout from "./Component/Layout/Layout.jsx";
 import Home from "./Component/Home/Home.jsx";
 import About from "./Component/About/About.jsx";
-// import Contact from "./Component/Contact/Contact.jsx";
+import Contact from "./Component/Contact/Contact.jsx";
 import Footer from "./Component/Footer/Footer.jsx";
 import Navbar from "./Component/Navbar/Navbar.jsx";
 import Portfolio from "./Component/Portfolio/Portfolio.jsx";
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
-import Contact from "./Component/Contact/Contact.jsx";
 
 
 // إنشـاء الراوتر
